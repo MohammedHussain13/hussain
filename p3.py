@@ -1,7 +1,7 @@
-ch = input()
+text= input()
 
-if(ch=='A' or ch=='a' or ch=='E' or ch =='e' or ch=='I'
- or ch=='i' or ch=='O' or ch=='o' or ch=='U' or ch=='u'):
-    print(ch, "Vowel")
+if(text=='A' or =='a' or text=='E' or text =='e' or text=='I'
+ or text=='i' or text=='O' or text=='o' or text=='U' or text=='u'):
+    print(text, "Vowel")
 else:
-    print(ch, "Consonant")
+    print(text, "Consonant")
